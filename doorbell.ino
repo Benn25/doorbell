@@ -39,7 +39,7 @@ void setup()
   pinMode(soleno, OUTPUT);
   pinMode(LED, OUTPUT);
 
-  myservo.write(105);              // tell servo to go to position 70...forever!
+  myservo.write(105);              // tell servo to go to position 105...forever!
 }
 
 void STOPROT()
